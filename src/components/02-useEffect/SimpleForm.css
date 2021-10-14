@@ -1,0 +1,22 @@
+body{
+    padding: 70px;
+    margin: 20px;
+}
+
+input{
+    margin-top: 15px;
+}
+
+button{
+    margin: 15px;
+}
+
+p{
+    text-align: right;
+   
+    font-weight:800;
+}
+
+footer{
+    text-align: right;
+}
